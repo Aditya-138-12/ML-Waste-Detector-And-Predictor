@@ -1,0 +1,6 @@
+path: /home/aditya/Desktop/data
+train: images/train
+val: images/train
+
+names:
+ 0: WasteProducts
